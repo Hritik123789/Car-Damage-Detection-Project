@@ -1,6 +1,7 @@
 # Vehicle Damage Detection
 
 A deep learning-based web application for detecting and classifying vehicle damage using Streamlit and PyTorch.
+
 Link: https://car-damage-detection-project-p6e44svygvud778mrkdo7d.streamlit.app/
 
 
@@ -108,6 +109,7 @@ The `CarClassifierResNet` class implements a modified ResNet50 architecture:
 For best results, use clear, well-lit images of the vehicle damage area. The model is optimized for front and rear damage classification from multiple angles and lighting conditions.
 
 ---
+
 
 
 
