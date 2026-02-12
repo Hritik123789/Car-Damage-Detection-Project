@@ -1,0 +1,4 @@
+Pillow==12.1.1
+streamlit==1.48.1
+torch==2.9.0+cu128
+torchvision==0.24.0+cu128
