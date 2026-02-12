@@ -2,6 +2,9 @@
 
 A deep learning-based web application for detecting and classifying vehicle damage using Streamlit and PyTorch.
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9d1b2057-fe67-437a-a0b2-0548ec7404bf" />
+
+
 ## Features
 
 - **Image Upload**: Upload vehicle images (JPG, JPEG, PNG)
@@ -103,4 +106,3 @@ For best results, use clear, well-lit images of the vehicle damage area. The mod
 
 ---
 
-For issues or questions, refer to the main project repository and documentation.
