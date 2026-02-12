@@ -11,7 +11,7 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Streamlit temp file
+# Streamlit temp
 temp_file.jpg
 
 # VS Code
